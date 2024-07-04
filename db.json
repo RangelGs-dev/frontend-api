@@ -19,7 +19,7 @@
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "4999",
       "vendido": false,
-      "descricao": "Notebook desenvolvido para aqueles que querem estudar, trabalhar ou se divertir",
+      "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
       "fotos": null
     },
     {
@@ -28,7 +28,7 @@
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "3999",
       "vendido": false,
-      "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos. Processador ultra rápido, tela grande e bateria que dura o dia todo.",
+      "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos.",
       "fotos": null
     },
     {
@@ -37,7 +37,7 @@
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "1499",
       "vendido": false,
-      "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo. Monitora batimentos cardíacos, passos, sono e muito mais. Design elegante e bateria com longa duração.",
+      "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo.",
       "fotos": null
     },
     {
@@ -46,7 +46,7 @@
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "799",
       "vendido": false,
-      "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos. Fones de ouvido com cancelamento de ruído, design ergonômico e bateria com até 8 horas de duração.",
+      "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos.",
       "fotos": null
     }
   ]
