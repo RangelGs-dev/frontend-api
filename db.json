@@ -1,0 +1,53 @@
+{
+  "usuario": [
+    {
+      "id": "rangelgs17@gmail.com",
+      "email": "rangelgs17@gmail.com",
+      "nome": "Rangel Sousa",
+      "senha": "123",
+      "rua": "Trav Ataulfo Alves",
+      "cep": "68022140",
+      "numero": "313",
+      "estado": "PA",
+      "cidade": "Santarém"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "rangelgs17@gmail.com",
+      "preco": "4999",
+      "vendido": false,
+      "descricao": "Notebook desenvolvido para aqueles que querem estudar, trabalhar ou se divertir",
+      "fotos": null
+    },
+    {
+      "id": "smartphone-gamer",
+      "nome": "Smartphone Gamer Ultra Rápido",
+      "usuario_id": "rangelgs17@gmail.com",
+      "preco": "3999",
+      "vendido": false,
+      "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos. Processador ultra rápido, tela grande e bateria que dura o dia todo.",
+      "fotos": null
+    },
+    {
+      "id": "smartwatch-fitness",
+      "nome": "Smartwatch Fitness Completo",
+      "usuario_id": "rangelgs17@gmail.com",
+      "preco": "1499",
+      "vendido": false,
+      "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo. Monitora batimentos cardíacos, passos, sono e muito mais. Design elegante e bateria com longa duração.",
+      "fotos": null
+    },
+    {
+      "id": "fones-bluetooth",
+      "nome": "Fones de Ouvido Bluetooth com Cancelamento de Ruído",
+      "usuario_id": "rangelgs17@gmail.com",
+      "preco": "799",
+      "vendido": false,
+      "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos. Fones de ouvido com cancelamento de ruído, design ergonômico e bateria com até 8 horas de duração.",
+      "fotos": null
+    }
+  ]
+}
