@@ -10,6 +10,17 @@
       "numero": "313",
       "estado": "PA",
       "cidade": "Santarém"
+    },
+        {
+      "id": "rangel17gs@outlook.com",
+      "email": "rangel17gs@outlook.com",
+      "nome": "Gabi Sousa",
+      "senha": "123",
+      "rua": "R. Deodoro da Fonseca",
+      "cep": "68140000",
+      "numero": "115",
+      "estado": "PA",
+      "cidade": "Uruara"
     }
   ],
   "produto": [
