@@ -18,7 +18,7 @@
       "nome": "Notebook",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "4999",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
       "fotos": null
     },
@@ -27,7 +27,7 @@
       "nome": "Smartphone Gamer Ultra Rápido",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "3999",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos.",
       "fotos": null
     },
@@ -36,7 +36,7 @@
       "nome": "Smartwatch Fitness Completo",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "1499",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo.",
       "fotos": null
     },
@@ -45,7 +45,7 @@
       "nome": "Fones de Ouvido Bluetooth com Cancelamento de Ruído",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "799",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos.",
       "fotos": null
     },
@@ -54,7 +54,7 @@
       "nome": "Notebook",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "4999",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
       "fotos": null
     },
@@ -63,7 +63,7 @@
       "nome": "Smartphone Gamer Ultra Rápido",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "3999",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos.",
       "fotos": null
     },
@@ -72,7 +72,7 @@
       "nome": "Smartwatch Fitness Completo",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "1499",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo.",
       "fotos": null
     },
@@ -81,7 +81,7 @@
       "nome": "Fones de Ouvido Bluetooth com Cancelamento de Ruído",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "799",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos.",
       "fotos": null
     },
@@ -90,7 +90,7 @@
       "nome": "Notebook",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "4999",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
       "fotos": null
     },
@@ -99,7 +99,7 @@
       "nome": "Smartphone Gamer Ultra Rápido",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "3999",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos.",
       "fotos": null
     },
@@ -108,7 +108,7 @@
       "nome": "Smartwatch Fitness Completo",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "1499",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo.",
       "fotos": null
     },
@@ -117,7 +117,7 @@
       "nome": "Fones de Ouvido Bluetooth com Cancelamento de Ruído",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "799",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos.",
       "fotos": null
     },
@@ -126,7 +126,7 @@
       "nome": "Notebook",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "4999",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
       "fotos": null
     },
@@ -135,7 +135,7 @@
       "nome": "Smartphone Gamer Ultra Rápido",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "3999",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos.",
       "fotos": null
     },
@@ -144,7 +144,7 @@
       "nome": "Smartwatch Fitness Completo",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "1499",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo.",
       "fotos": null
     },
@@ -153,7 +153,7 @@
       "nome": "Fones de Ouvido Bluetooth com Cancelamento de Ruído",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "799",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos.",
       "fotos": null
     },
@@ -162,7 +162,7 @@
       "nome": "Notebook",
       "usuario_id": "rangelgs17@gmail.com",
       "preco": "4999",
-      "vendido": false,
+      "vendido": "false",
       "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
       "fotos": null
     }
