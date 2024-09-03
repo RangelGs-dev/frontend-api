@@ -1,181 +1,67 @@
 {
-  "usuario": [
+  "cardLinks": [
     {
-      "id": "rangelgs17@gmail.com",
-      "email": "rangelgs17@gmail.com",
-      "nome": "Rangel Sousa",
-      "senha": "123",
-      "rua": "Trav Ataulfo Alves",
-      "cep": "68022140",
-      "numero": "313",
-      "estado": "PA",
-      "cidade": "Santarém"
-    },
-        {
-      "id": "rangel17gs@outlook.com",
-      "email": "rangel17gs@outlook.com",
-      "nome": "Gabi Sousa",
-      "senha": "123",
-      "rua": "R. Deodoro da Fonseca",
-      "cep": "68140000",
-      "numero": "115",
-      "estado": "PA",
-      "cidade": "Uruara"
-    }
-  ],
-  "produto": [
-    {
-      "id": "notebook",
-      "nome": "Notebook",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "4999",
-      "vendido": "false",
-      "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
-      "fotos": null
+      "id": 1,
+      "titulo": "Gestão de Projetos",
+      "iconPath": "https://img.icons8.com/ffffee/fluency-systems-regular/50/project-manager.png",
+      "descricao": "Gerencie projetos e tarefas.",
+      "link": "http://intranet.empresa.com/gestao-projetos"
     },
     {
-      "id": "smartphone-gamer",
-      "nome": "Smartphone Gamer Ultra Rápido",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "3999",
-      "vendido": "false",
-      "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos.",
-      "fotos": null
+      "id": 2,
+      "titulo": "Portal de RH",
+      "iconPath": "/assets/icons/hr-portal-icon.png",
+      "descricao": "Acesse informações de RH.",
+      "link": "http://intranet.empresa.com/portal-rh"
     },
     {
-      "id": "smartwatch-fitness",
-      "nome": "Smartwatch Fitness Completo",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "1499",
-      "vendido": "false",
-      "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo.",
-      "fotos": null
+      "id": 3,
+      "titulo": "Help Desk",
+      "iconPath": "/assets/icons/help-desk-icon.png",
+      "descricao": "Solicite suporte técnico.",
+      "link": "http://intranet.empresa.com/help-desk"
     },
     {
-      "id": "fones-bluetooth",
-      "nome": "Fones de Ouvido Bluetooth com Cancelamento de Ruído",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "799",
-      "vendido": "false",
-      "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos.",
-      "fotos": null
-    },
-        {
-      "id": "notebook",
-      "nome": "Notebook",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "4999",
-      "vendido": "false",
-      "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
-      "fotos": null
+      "id": 4,
+      "titulo": "Gestão de Contratos",
+      "iconPath": "/assets/icons/contract-management-icon.png",
+      "descricao": "Gerencie contratos e documentos.",
+      "link": "http://intranet.empresa.com/gestao-contratos"
     },
     {
-      "id": "smartphone-gamer",
-      "nome": "Smartphone Gamer Ultra Rápido",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "3999",
-      "vendido": "false",
-      "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos.",
-      "fotos": null
+      "id": 5,
+      "titulo": "Intranet de Marketing",
+      "iconPath": "/assets/icons/marketing-icon.png",
+      "descricao": "Recursos e campanhas de marketing.",
+      "link": "http://intranet.empresa.com/marketing"
     },
     {
-      "id": "smartwatch-fitness",
-      "nome": "Smartwatch Fitness Completo",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "1499",
-      "vendido": "false",
-      "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo.",
-      "fotos": null
+      "id": 6,
+      "titulo": "Treinamentos",
+      "iconPath": "/assets/icons/training-center-icon.png",
+      "descricao": "Acesse treinamentos internos.",
+      "link": "http://intranet.empresa.com/treinamentos"
     },
     {
-      "id": "fones-bluetooth",
-      "nome": "Fones de Ouvido Bluetooth com Cancelamento de Ruído",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "799",
-      "vendido": "false",
-      "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos.",
-      "fotos": null
-    },
-        {
-      "id": "notebook",
-      "nome": "Notebook",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "4999",
-      "vendido": "false",
-      "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
-      "fotos": null
+      "id": 7,
+      "titulo": "Biblioteca Digital",
+      "iconPath": "/assets/icons/digital-library-icon.png",
+      "descricao": "Manuais e documentos internos.",
+      "link": "http://intranet.empresa.com/biblioteca"
     },
     {
-      "id": "smartphone-gamer",
-      "nome": "Smartphone Gamer Ultra Rápido",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "3999",
-      "vendido": "false",
-      "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos.",
-      "fotos": null
+      "id": 8,
+      "titulo": "Sistema de Frotas",
+      "iconPath": "/assets/icons/fleet-management-icon.png",
+      "descricao": "Gerencie a frota da empresa.",
+      "link": "http://intranet.empresa.com/frotas"
     },
     {
-      "id": "smartwatch-fitness",
-      "nome": "Smartwatch Fitness Completo",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "1499",
-      "vendido": "false",
-      "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo.",
-      "fotos": null
-    },
-    {
-      "id": "fones-bluetooth",
-      "nome": "Fones de Ouvido Bluetooth com Cancelamento de Ruído",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "799",
-      "vendido": "false",
-      "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos.",
-      "fotos": null
-    },
-    {
-      "id": "notebook",
-      "nome": "Notebook",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "4999",
-      "vendido": "false",
-      "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
-      "fotos": null
-    },
-    {
-      "id": "smartphone-gamer",
-      "nome": "Smartphone Gamer Ultra Rápido",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "3999",
-      "vendido": "false",
-      "descricao": "Smartphone perfeito para quem busca desempenho máximo em jogos.",
-      "fotos": null
-    },
-    {
-      "id": "smartwatch-fitness",
-      "nome": "Smartwatch Fitness Completo",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "1499",
-      "vendido": "false",
-      "descricao": "Monitore sua saúde e seus treinos com este smartwatch completo.",
-      "fotos": null
-    },
-    {
-      "id": "fones-bluetooth",
-      "nome": "Fones de Ouvido Bluetooth com Cancelamento de Ruído",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "799",
-      "vendido": "false",
-      "descricao": "Curta sua música favorita com qualidade de som incrível e sem ruídos externos.",
-      "fotos": null
-    },
-    {
-      "id": "notebook",
-      "nome": "Notebook",
-      "usuario_id": "rangelgs17@gmail.com",
-      "preco": "4999",
-      "vendido": "false",
-      "descricao": "Notebook desenvolvido para aqueles que querem estudar.",
-      "fotos": null
+      "id": 9,
+      "titulo": "Portal de Compras",
+      "iconPath": "/assets/icons/procurement-icon.png",
+      "descricao": "Solicite e acompanhe compras.",
+      "link": "http://intranet.empresa.com/compras"
     }
   ]
 }
