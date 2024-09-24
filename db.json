@@ -1,4 +1,30 @@
 {
+  "usuario": [
+    {
+      "id": "rangelgs17@gmail.com",
+      "nome": "Rangel Sousa",
+      "email": "rangelgs17@gmail.com",
+      "senha": "123",
+      "cep": "68022140",
+      "rua": "Travessa Ataulfo Alves",
+      "numero": "155",
+      "bairro": "Santo André",
+      "cidade": "Santarém",
+      "estado": "PA"
+    },
+    {
+      "id": "joao@gmail.com",
+      "nome": "Joao III",
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "cep": "06803440",
+      "rua": "Rua Belo Horizonte",
+      "numero": "313",
+      "bairro": "Centro",
+      "cidade": "Embu das Artes",
+      "estado": "SP"
+    }
+  ],
   "cardLinks": [
     {
       "id": 1,
